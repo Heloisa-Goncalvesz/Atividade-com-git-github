@@ -1,4 +1,4 @@
-let idade = Nuber(prompt("Digite sua idade:"))
+let idade = Number(prompt("Digite sua idade:"))
 let temCNH = prompt("Possui CNH? (sim ou nao)");
 
 if (idade >= 18 && tem CNH === "sim") {

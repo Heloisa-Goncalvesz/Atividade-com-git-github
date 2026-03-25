@@ -1,4 +1,4 @@
-let idade = Nuber(prompt("Insir sua idade:"))
+let idade = Number(prompt("Insir sua idade:"))
 
 if (idade >= 18) {
     alert("Você é maior de idade"); 
